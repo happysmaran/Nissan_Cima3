@@ -1,0 +1,30 @@
+h1{
+    color:white;
+    border: 4mm ridge rgba(170, 164, 164, .6);
+}
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.centering{
+    display: flex;
+    justify-content: center;
+    background-image: url("Nissan IMk.jpg");
+}
+.centering2{
+    display: flex;
+    justify-content: center;
+}
+
+.ordering{
+    display: flex;
+    flex-direction: row;
+    border: 4mm ridge rgba(170, 164, 164, .6);
+}
+
+.bordering{
+    background-color: lightslategrey;
+}
+
+.colouring{
+    background-color: linen;
+}

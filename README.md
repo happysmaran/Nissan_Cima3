@@ -1,0 +1,1 @@
+Make sure if you are viewing this site, keep the zoom at 125%
